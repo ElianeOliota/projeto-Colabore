@@ -21,3 +21,9 @@
 > - [Baixar o POSTMAN](https://www.postman.com/downloads/) 
 > - [Importar a collection como raw text](/COLABORE.postman_collection.json)
 > - Executar a requisição Usuarios > CRRUD > Read all, essa chamada lista todos os usuários salvos na tabela usuario.
+
+## Subir o frontend
+>
+> - [Acesse o diretório](/colabore/src/main/resources/static)
+> - Abra esse diretório com o visual Studio code
+> - Localize o arquivo index.html e execute a opção (Abrir com Live Server)
