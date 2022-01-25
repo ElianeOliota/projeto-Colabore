@@ -24,6 +24,6 @@
 
 ## Subir o frontend
 >
-> - [Acesse o diretório](/colabore/src/main/resources/static)
+> - [Acesse o diretório](/colabore/src/main/resources/static) colabore/src/main/resources/static/
 > - Abra esse diretório com o visual Studio code
 > - Localize o arquivo index.html e execute a opção (Abrir com Live Server)
