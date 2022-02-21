@@ -20,7 +20,7 @@
 >
 > - [Baixar o POSTMAN](https://www.postman.com/downloads/) 
 > - [Importar a collection como raw text](/COLABORE.postman_collection.json)
-> - Executar a requisição Usuarios > CRRUD > Read all, essa chamada lista todos os usuários salvos na tabela usuario.
+> - Executar a requisição Usuarios > CRUD > Read all, essa chamada lista todos os usuários salvos na tabela usuario.
 
 ## Subir o frontend
 >
